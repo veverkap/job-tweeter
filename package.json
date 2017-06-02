@@ -1,0 +1,12 @@
+{
+  "name": "job-tweeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "job-tweeter.js",
+  "dependencies": {
+    "rss-parser": "^2.9.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
